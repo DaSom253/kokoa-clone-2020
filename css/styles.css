@@ -3,7 +3,7 @@
 @import "variables.css";
 
 /* Components */
-@import "variables.css";
+@import "components/screen-header.css";
 @import "components/statusbar.css";
 @import "components/nav-bar.css";
 
