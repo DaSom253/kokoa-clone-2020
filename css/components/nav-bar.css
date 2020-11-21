@@ -16,3 +16,36 @@
 .nav__link {
   color: #2e363e;
 }
+
+.nav__a {
+  position: relative;
+}
+
+.nav__notification {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  position: static;
+  bottom: 15px;
+  left: 15px;
+  position: absolute;
+  color: white;
+  font-weight: 500;
+  background-color: tomato;
+}
+
+.nav__btn {
+  position: relative;
+}
+
+.nav__reddot {
+  position: absolute;
+  left: 30px;
+  height: 7px;
+  width: 7px;
+  border-radius: 50%;
+  background-color: tomato;
+}
