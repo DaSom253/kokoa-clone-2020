@@ -52,3 +52,34 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__text {
+  position: relative;
+}
+
+.user-component__subtitle__dda {
+  position: absolute;
+  left: 120px;
+  top: 23px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 0, 0, 1);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-component__subtitle__dda1 {
+  width: 1px;
+  height: 8px;
+  margin-bottom: 2px;
+  background-color: tomato;
+}
+
+.user-component__subtitle__dda2 {
+  width: 1px;
+  height: 2px;
+  background-color: tomato;
+}
