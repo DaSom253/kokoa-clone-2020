@@ -28,3 +28,13 @@
   border-radius: 50%;
   background-color: tomato;
 }
+
+.screen-header__icons__dot1 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  left: 145px;
+  bottom: 20px;
+  border-radius: 50%;
+  background-color: tomato;
+}
