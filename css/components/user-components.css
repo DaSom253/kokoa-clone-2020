@@ -20,6 +20,15 @@
   height: 80px;
 }
 
+.user-component__avatar--sm {
+  width: 70px;
+  height: 70px;
+}
+
+.user-component__title--not-bold {
+  font-weight: 400;
+}
+
 .user-component__title {
   font-weight: 600;
   font-size: 18px;
